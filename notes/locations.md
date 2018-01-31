@@ -10,3 +10,4 @@ For more about the [people of Darmen](/notes/people#darmen)
 # The Cave of the Worm People
 # The Radish Inn
 # Tesseralia
+![Tesseralia City Map](/uploads/tesseralia-city-map.jpg "Tesseralia City Map"){.pagelogo}
