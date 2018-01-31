@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
+<!-- TITLE: The Wiki of the Lemâitre -->
 <!-- SUBTITLE: What is this all about -->
 
 # The Wiki of the Lemâitre
