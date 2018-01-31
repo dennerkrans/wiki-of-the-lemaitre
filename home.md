@@ -8,7 +8,7 @@ The only known place in the universe, except for Dropbox, where you can find inf
 -----
 
 
-[Notes](/notes)
+## [Notes](/notes)
 	[Locations](/notes/locations)
 	[People](/notes/people)
 [Resources](/resources)
