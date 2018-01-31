@@ -7,6 +7,6 @@ The only known place in the universe, except for Dropbox, where you can find inf
 
 -----
 
-# Subpages
-[Notes](/notes): Contains scribbles and doodles scratched down in all haste between eldritch blasts and the like.
-[Resources](/resources): Text about things, and picture of things.
+# Content
+* [Notes](/notes): Contains scribbles and doodles scratched down in all haste between eldritch blasts and the like.
+* [Resources](/resources): Text about things, and picture of things.
