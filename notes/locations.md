@@ -5,7 +5,7 @@
 # KE55
 # Darmen
 For more about the [people of Darmen](/notes/people#darmen)
-![Darmen](/uploads/darmen.jpg =100x)
+![Darmen](/uploads/darmen.jpg "Darmen"){width: 150px}
 # The Cave of the Worm People
 # The Radish Inn
 # Tesseralia
