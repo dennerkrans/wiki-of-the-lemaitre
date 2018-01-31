@@ -1,4 +1,4 @@
-<!-- TITLE: Dm Eyes Only -->
+<!-- TITLE: DM Eyes Only 🐲 -->
 <!-- SUBTITLE: A quick summary of Dm Eyes Only -->
 
 # DM Eyes Only 🐲
