@@ -15,6 +15,7 @@ The years moved on and Charlie grew up to be a young man. He had spent the past 
 But sadly it didn’t last forever, and due to his stubbornness and thickheadedness he lost Nut and little Brian Olfric Lamont Thiel, his son.
 # Equipment
 Weapons
-Weapons | Armor | Potions | Key Items | Miscellaneous 
+---
+Name | Range | Type | Damage  
 --- | --- | --- | --- | ---
 Arm cannon | Blue Mega Armor | Elixir of Regelindes: a cloudy, viscous, white liquid sitting in a voluptuously shaped bottle | The Elder Rock | Arcane Magazine
