@@ -19,4 +19,7 @@ Name | Range | Type | Damage | Miscellaneous
 --- | --- | --- | --- | ---
 Arm cannon | 500ft | Piercing | 2d6 | Needs Arcane Magazine
 
-Elixir of Regelindes: a cloudy, viscous, white liquid sitting in a voluptuously shaped bottle
+## Potions and moss
+Name | Description | Effect
+--- | --- | ---
+Elixir of Regelindes | A cloudy, viscous, white liquid sitting in a voluptuously shaped bottle | Unknown
