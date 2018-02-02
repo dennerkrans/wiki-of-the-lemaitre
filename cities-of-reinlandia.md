@@ -43,3 +43,14 @@ The Fallisch family are the current dominant family, their stranglehold on the v
 The Schweinstütz family call themselves the stewards and engineers of Tesseralia. A statement that rings largely true, as they architected much of the infrastructure in the city, and ensuring that every part of it required Knallgas to run. A fuel that they also happened to supply. Their power can be seen mostly in the poorer district, where almost everybody is a benefactor of the Schweinstütz industrial benevolence. However, much of their power has waned. A slow decline started with Karl Schweinstütz and it is one that has only been accelerated by the presence of Rcnum nearby, which looks to be able to replace much of the city's reliance on Knallgas.  The current head of the family is Heinrich Schweinstütz. 
 
 
+
+#### Factions
+
+Although ruled by the four families, factionalism still runs rife in Tesseralia. Here are a few of those factions. 
+
+__The Hood Elves__ also known as _the Tesseralia Liberation Brigade_, a motley crew of elves operating out of the muck and misery of the Schlummpfütze. They access city through the knallgas tunnels and carry out guerilla attacks. Lately, their numbers have waned as the Tesseralia militia carried out attacks under the orders of Colonel Gessen. 
+
+__Tesseralia Militia__ although bankrolled entirely by the four families, rumors of the growing thirst for power within the militia have been circulating for a long time. But the militia's leader, Colonel Gessen has remained a steadfast supporter of the Four Families. 
+
+
+
