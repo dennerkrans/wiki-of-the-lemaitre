@@ -1,7 +1,7 @@
 <!-- TITLE: Wrench -->
 <!-- SUBTITLE: The life and love of Charlie Wren -->
 
-# Wrench
+# Backstory
 Born Charlie Bartholomew Ren 34 years ago according to the New Belgium Date System. Charlie grew up watching his mother Scala create mechanical wonders in her Emporium of Arcane Machinations and Thingamabobs, so it was only natural that Charlie followed in her footsteps. From the day he was old enough to hold a wrench and screw a nut he helped out, learned, and created. During this time combinations of the arcane and technological were works of wonder and amazement, but sadly that dwindled over time as New Belgium, fearing this arcane technology and the creativity it brought, strangled the market by applying extreme taxation on purchases of such wares.
 
 In the end the Emporium of Arcane Machinations and Thingamabobs turned into the Nut & Bolt: Fixers of Home Appliances For Whatever Sprouts You’re Willing to Pay, a way too long of a name to afford buying any type of advertisement so in the end Charlie and his mother made due by helping the local community as general handymen. That however was simply the day job.
