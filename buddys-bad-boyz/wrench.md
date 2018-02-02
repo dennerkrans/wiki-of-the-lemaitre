@@ -23,3 +23,4 @@ Arm cannon | 500ft | Piercing | 2d6 | Needs Arcane Magazine
 Name | Description | Effect
 --- | --- | ---
 Elixir of Regelindes | A cloudy, viscous, white liquid sitting in a voluptuously shaped bottle | Unknown
+Rock moss | Greyish tint | Unknown
