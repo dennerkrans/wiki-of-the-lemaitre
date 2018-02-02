@@ -13,3 +13,7 @@ The test that ended the project prematurely was the day that Charlie lost his ar
 The years moved on and Charlie grew up to be a young man. He had spent the past year creating a one of a kind arcane cybernetic arm to replace what he had lost, and in many ways it made him more of the man he is today. During his experiments creating the Thunder Cannon he took the help of a young bio-engineer Nima Ulyssa Thiel, or Nut for short, and working closely together to create a proper prosthetic they ended up becoming more than colleagues. The following years were the best in his life, he felt at peace. 
 
 But sadly it didn’t last forever, and due to his stubbornness and thickheadedness he lost Nut and little Brian Olfric Lamont Thiel, his son.
+# Equipment
+Weapons | Armor | Potions | Key Items | Miscellaneous 
+--- | --- | --- | --- | ---
+Arm cannon | Blue Mega Armor | Elixir of Regelindes: a cloudy, viscous, white liquid sitting in a voluptuously shaped bottle | The Elder Rock | 
