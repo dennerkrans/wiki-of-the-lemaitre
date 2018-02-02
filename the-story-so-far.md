@@ -9,4 +9,4 @@ Travel to KE55 for a mining survey. Buddy, Wrench, Fred, *can't remember name*, 
 ## Shanniqua, Struwwelpeter, and the light
 We've landed on KE55. Everyone except Buddy follow Shandra down on the asteroid heading towards the energy source. She tells us of her devious plans using this strange power source, the light of creation (?), to alter the world in favor of WaffleBlast Inc. Wrench attempts to stop her by tackling her causing her to drop the book Struwwelpeter into the light. Oops. A huge wave of reality twisting energy was launched towards earth as we were knocked down.
 ## A Buddy lost, and a buddy found
-Before we can react Sklagrah is bolting towards the Lemâitre marroning us on KE55. She kidnapped Buddy. We try to find a way back to earth, back to the Lemâitre to save Buddy. Old decrepit space ship from the ESA. A lot of dead people inside, one alive, Ariz.
+Before we can react Sklagrah is bolting towards the Lemâitre marroning us on KE55. She kidnapped Buddy. We try to find a way back to earth, back to the Lemâitre to save Buddy. Old decrepit space ship from the ESA. A lot of dead people inside, one alive, Aris.
