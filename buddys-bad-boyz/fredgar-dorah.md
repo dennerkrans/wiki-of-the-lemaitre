@@ -2,3 +2,5 @@
 <!-- SUBTITLE: A quick summary of Fredgar Dorah -->
 
 # Fredgar Dorah
+
+![Fredgar](/uploads/fredgar.png "Fredgar")
