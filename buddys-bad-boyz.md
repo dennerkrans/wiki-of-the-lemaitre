@@ -1,5 +1,5 @@
-<!-- TITLE: Buddys Bad Boyz -->
-<!-- SUBTITLE: The never faltering team that is Buddys Bad Boyz -->
+<!-- TITLE: Buddyz -->
+<!-- SUBTITLE: The never faltering team that is Buddyz -->
 
 * [Wrench](/buddys-bad-boyz/wrench): The level headed grease monkey that keeps the boyz from going too crazy.
 * [Ariz](/buddys-bad-boyz/aristotle-doe-katz): The vegan elf.
