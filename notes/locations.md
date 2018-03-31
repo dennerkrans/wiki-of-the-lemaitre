@@ -10,7 +10,7 @@ Although formally a republic, corruption ran rife in New Belgium, meaning that i
 
 ### History in Brief
 
-__Coca Cola Uprising __ the Vassal States of America attempted an uprising in 2043, where the workers banded under one of the few remaining icons of the American Empire, the Coca Cola logo. They managed to sabotage 2 Waffablast facilities before the revolt was brought to a swift and bloody conclusion. The symbol has since then been banned. 
+__Coca Cola Uprising__ the Vassal States of America attempted an uprising in 2043, where the workers banded under one of the few remaining icons of the American Empire, the Coca Cola logo. They managed to sabotage 2 Waffablast facilities before the revolt was brought to a swift and bloody conclusion. The symbol has since then been banned. 
 
 __The New Periodic Table__ by 2032 new Belgian scientists working for Waffablast discovered a new element, __WA__, the smooth element giving Waffablast sodas their distinct flavor. The discovery won the nobel prizes in chemistry, physics, biology and literature the same year. 
 
