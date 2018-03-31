@@ -1,8 +1,9 @@
 <!-- TITLE: Locations -->
 <!-- SUBTITLE: The locations in this fantastical world. -->
 # New Belgium
+<br>
+<img alt="Flag of the New Belgium Republic" src="/uploads/new-belgium.png" style="width: 100%; max-width: 555px; ">
 
-![Flag of The New Belgium Republic](/uploads/new-belgium.png "New Belgium")
 Following the widescale destruction of the major super powers in World War 3, Belgium rose up and began to annex its neighbors starting with the Netherlands and Luxembourg. Under the newfound military might of Brussels, the three nations were subjugated under _The New Belgium Republic_. Decesive victories in Scandinavia, Germany and France cemented the military might of the newly formed republic, and other countries were forced to willingly submit or face the military power of New Belgium. 
 
 Although formally a republic, corruption ran rife in New Belgium, meaning that it was more of an oligarchy in practice. Eventually one corporation came to so thoroughly dominate the empire, that it became the defacto political entity. Its powers unchecked by the figurehead government - __Waffablast__ created its own armies, secured and monopolized all markets and insituted a puritan Belgophile regime. The tendrils of its soft power can be felt in all aspects of New Belgian life, and its hard power can be seen easily by the troops and military installations littering the entire republic. 
@@ -22,10 +23,10 @@ For more about the [people of Darmen](/notes/people#darmen)
 <br/>
 <img alt="Darmen Village Map" src="/uploads/darmen.jpg" style="width: 100%; max-width: 555px;"/>
 # The Cave of the Worm People
-
+In the sanctum of Dirra, god of Retribution and Vengeance lives Otto _the Toothfairy_ and the ancient Duchess of Pharamie, kept alive but in Carrion form beneath the tree of Sephoria. 
 
 # The Radish Inn
-
+Your friendly bed and breakfast turned retirement home and murder scene. 
 
 # Tesseralia
 The Districts of Tesseralia
