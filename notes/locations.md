@@ -1,8 +1,8 @@
 <!-- TITLE: Locations -->
 <!-- SUBTITLE: The locations in this fantastical world. -->
 # New Belgium
-<br>
-<img alt="Flag of the New Belgium Republic" src="/uploads/new-belgium.png" style="width: 100%; max-width: 555px; ">
+<br/>
+<img alt="Flag of the New Belgium Republic" src="/uploads/new-belgium.png" style="width: 100%; max-width: 555px; "/>
 
 Following the widescale destruction of the major super powers in World War 3, Belgium rose up and began to annex its neighbors starting with the Netherlands and Luxembourg. Under the newfound military might of Brussels, the three nations were subjugated under _The New Belgium Republic_. Decesive victories in Scandinavia, Germany and France cemented the military might of the newly formed republic, and other countries were forced to willingly submit or face the military power of New Belgium. 
 
